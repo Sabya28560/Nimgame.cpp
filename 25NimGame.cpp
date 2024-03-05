@@ -1,3 +1,4 @@
+//Nimgame Code by Saby
 #include<iostream>
 using namespace std;
 int Nimgame(int n){
